@@ -68,3 +68,21 @@ The itinerary includes beaches, historical attractions, local food experiences, 
 **Project Type:** Individual Project
 
 **Year:** 2026
+## 🖼️ UI Screenshots
+
+### Home Screen
+![Home Screen](TP-4.png)
+
+### Plan a Trip
+![Plan a Trip](TP-5.png)
+
+### AI Loading Screen
+![AI Loading Screen](TP-6.png)
+
+### Personalized Itinerary
+![Itinerary](TP-7.png)
+
+### Budget Screen
+![Budget Screen](TP-9.png)
+
+
